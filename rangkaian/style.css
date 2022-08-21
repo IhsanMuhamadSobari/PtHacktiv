@@ -1,0 +1,47 @@
+.card-title {
+    margin-left: 190px;
+    margin-top: -140px;
+    font-family: 'DynaPuff', cursive;
+    font-weight: bold;
+}
+
+.card {
+    height: 210px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.card-text {
+    margin-left: 190px;
+    margin-top: -0px;
+    font-family: 'DynaPuff', cursive;
+    font-weight: bold;
+}
+
+.kontak {
+    margin-left: 205px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.Resume {
+    margin-top: -50pt;
+    margin-bottom: 100px;
+    margin-left: 320px;
+}
+
+.text {
+    margin-left: 550px;
+    margin-top: -12px;
+    margin-bottom: -170px;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'DynaPuff', cursive;
+}
+
+.text-card {
+    margin-left: 650px;
+    font-size: 12px;
+    margin-bottom: 15px;
+    font-family: 'DynaPuff', cursive;
+}
